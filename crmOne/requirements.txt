@@ -1,0 +1,7 @@
+sqlalchemy
+pandas
+python-json-logger
+PyQt5==5.15
+matplotlib
+python-dotenv
+bcrypt

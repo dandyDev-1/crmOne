@@ -1,0 +1,4788 @@
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:26.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:26.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:26.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:26.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00022s] ('78B8j5Vq7Q', '\"test\"', {'salt': b'$2b$12$oy9tjySzva5qIWql8oMki.', 'key': b'$2b$12$oy9tjySzva5qIWql8oMki.bK47/S0gT.HVke.KDzTOWFHCn388eDK'}, {'creation_date': datetime.datetime(2023, 9, 1, 20, 30, 10, 117625)})"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:30.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00047s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00017s] ('0q5e2eyS55', '\"test\"', {'salt': b'$2b$12$042HFADbFlCw/mgIF5mBlO', 'key': b'$2b$12$042HFADbFlCw/mgIF5mBlOKMzzgjRafhQGin0ojbGFW8HrSlsU8TK'}, '{\"creation_date\": \"2023-09-01 20:31:45.091089\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:32.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:32.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:32.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:32.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:33.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:33.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:33.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00047s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:33.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:34.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:34.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:34.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00044s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:34.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00038s] ('gqM6975W1w', 'test', 'test', '{\"creation_date\": \"2023-09-01 20:48:13.911679\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:49.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:49.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:49.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:49.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00052s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00041s] ('8EE132yI6A', 'test', 'test', '{\"creation_date\": \"2023-09-01 20:50:11.000164\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 16.4s ago] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:50.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00046s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'admin', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:53.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:53.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:53.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00046s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:53.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:54.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:54.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:54.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:54.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:01.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:01.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:01.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00054s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:01.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00046s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.45",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00053s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:18.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:18.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:18.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:18.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.26",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.26",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.26",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00052s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.26",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00089s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:37.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:37.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:37.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00073s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:37.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:41.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:41.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:41.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00072s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:41.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:42.35",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:42.35",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:42.35",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00089s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:42.35",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:54.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:54.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:54.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:54.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('74BXaxG592', 'test', 'test', '{\"creation_date\": \"2023-09-02 16:55:09.064721\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 2.739s ago] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:50.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:50.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:50.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:50.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:57.04",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:57.04",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:57.04",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00067s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:57.04",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:58.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:58.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:58.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:58.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('15G0Xn1G2f', 'test', 'test', '{\"creation_date\": \"2023-09-02 19:18:38.337911\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('01jNEg47I6', 'test', 'test', '{\"creation_date\": \"2023-09-02 19:20:27.740709\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.27",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('tes', 'rte', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 1.565s ago] ('tes', 'rte', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.20",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.20",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.20",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 6.981s ago] ('tes', 'rte', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.20",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:45.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:45.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:45.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:45.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 'yest', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.38",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 4.157s ago] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00026s] ('TEST', 'TEST', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 7.318s ago] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00029s] ('test_2', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00028s] ('L09g9um65d', 'test_2', 'test_2', '{\"creation_date\": \"2023-09-02 20:15:42.754989\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:20.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:20.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:20.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:20.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:21.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:21.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:21.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00063s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:21.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 10:52.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 10:52.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 10:52.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00031s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 10:52.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:19.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:19.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:19.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:19.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.03",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.03",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.03",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.03",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00057s] ('ABC',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:21.08",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.30",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.30",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.30",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00052s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.30",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00053s] ('ABC',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:34.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:34.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:34.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00065s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:34.48",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.00",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.00",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.00",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('ABC 123 Exports',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.00",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00064s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:38.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:38.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:38.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:38.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('polo association',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO companies (id, name, meta_data) VALUES (?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00037s] ('45GC9k7Q3h', 'polo association', {'entry_date': datetime.datetime(2023, 9, 3, 11, 39, 42, 705626)})"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:39.42",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:40.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:40.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:40.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00067s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:40.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:42.01",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:42.01",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:42.01",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00063s] ('dunder mifflin',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:42.01",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:45.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:45.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:45.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00065s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:45.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('mickey mouse clubhouse',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO companies (id, name, meta_data) VALUES (?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00057s] ('04KL2q9B7N', 'mickey mouse clubhouse', '{\"entry_date\": \"2023-09-03 11:46:56.231706\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, meta_data) VALUES (?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00039s] ('8j0alR4e52', '<PyQt5.QtWidgets.QLineEdit object at 0x7f574930f760>_<PyQt5.QtWidgets.QLineEdit object at 0x7f574930f6d0>', '{\"email\": \"jeff@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '04KL2q9B7N', '{\"website\": \"jeff.com\", \"creation_date\": \"2023-09-03 11:46:56.226679\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.56",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 2.751s ago] ('mickey mouse clubhouse',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:46.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00053s] ('bundaboy',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:03.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:03.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:03.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:03.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('abc',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('abc',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO users (id, username, password, meta_data) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('9123dgK0Ke', 'test', 'test', '{\"creation_date\": \"2023-09-03 12:23:06.091668\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.06",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.28",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00043s] ('abc',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00043s] ('06wT05A5yc', '<PyQt5.QtWidgets.QLineEdit object at 0x7f757c50b9a0>_<PyQt5.QtWidgets.QLineEdit object at 0x7f757c50b910>', '{\"email\": \"jy@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', 'd06MY120eM', None, '{\"website\": \"jeff.com\", \"creation_date\": \"2023-09-03 12:24:11.951737\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.11",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 6.758s ago] ('abc',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 6.754s ago] ('4q071z1NWn', '<PyQt5.QtWidgets.QLineEdit object at 0x7f757c50b9a0>_<PyQt5.QtWidgets.QLineEdit object at 0x7f757c50b910>', '{\"email\": \"jy@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', 'N68O2EBo64', None, '{\"website\": \"jeff.com\", \"creation_date\": \"2023-09-03 12:24:18.711237\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:24.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:27.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:27.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:27.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:27.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('abc 123',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO companies (id, name, meta_data, contact_ids) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00041s] ('426wxhy87K', 'abc 123', '{\"entry_date\": \"2023-09-03 12:28:47.296653\"}', None)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00044s] ('Hx9y11eu63', 'Tiffany_Johnson', '{\"email\": \"abc@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '426wxhy87K', None, '{\"website\": \"abc.com\", \"creation_date\": \"2023-09-03 12:28:47.290766\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 1.806s ago] ('abc 123',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:28.49",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:30.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:30.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:30.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:30.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('abc 123',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:31.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:46.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:46.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:46.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00067s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:46.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00052s] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO companies (id, name, meta_data, contact_ids) VALUES (?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00051s] ('5vlH14W36j', 'test company', '{\"entry_date\": \"2023-09-03 12:47:10.296818\"}', None)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00052s] ('36VZEL00B5', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:10.290988\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.10",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 34.45s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 34.45s ago] ('dg30lU7Y60', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:44.745870\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.44",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 42.41s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 42.41s ago] ('8Q3U60xD0I', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:52.705750\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.52",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 42.92s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 42.91s ago] ('7G0MFZ053w', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:53.209719\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.2s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.19s ago] ('agw85F204E', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:53.489830\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.44s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.44s ago] ('9LJs8841as', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:53.737961\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.7s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 43.69s ago] ('E3J1Dj891k', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 12:47:53.993975\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:47.53",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 1881s ago] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 1881s ago] ('70Y83vq1Zv', 'First_Last', '{\"email\": \"fn@gmail.com\", \"phone\": \"123-456-7890\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"123.com\", \"creation_date\": \"2023-09-03 13:18:31.502070\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 13:18.36",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('text', 'text', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 7.925s ago] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:05.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:05.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:05.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00047s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:05.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00053s] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00051s] ('0TcM53C7I0', 'First_Last', '{\"email\": [\"address@gmail.com\"], \"phone\": [\"123-456-7890\"]}', 'Lead', '5vlH14W36j', None, '{\"website\": \"website.com\", \"creation_date\": \"2023-09-03 15:06:16.174235\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:06.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:09.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:09.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:09.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00051s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:09.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00063s] ('test company', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00042s] ('7do983z3ZJ', 'Adam_Scrotum', '{\"email\": \"genitals@balls.com\", \"phone\": \"403-891-2489\"}', 'Lead', '5vlH14W36j', None, '{\"website\": \"webapp.com\", \"creation_date\": \"2023-09-03 15:10:34.362711\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:10.34",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:33.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:33.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:33.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:33.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies \nWHERE companies.name = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('abc 123', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "INSERT INTO contacts (id, name, contact_info, status, company_id, interactions, meta_data) VALUES (?, ?, ?, ?, ?, ?, ?)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('727U0f9cuM', 'ben_dover', '{\"email\": \"ben@dover.com\", \"phone\": \"123-456-7890\"}', 'Lead', '426wxhy87K', None, '{\"website\": \"website.com\", \"creation_date\": \"2023-09-03 15:34:46.003791\", \"description\": \"Ben.\", \"priority\": \"HIGH\"}')"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:34.46",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "COMMIT"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:18.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:18.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:18.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:18.58",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:24.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:24.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:24.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00045s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:24.39",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.32",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00065s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00067s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00046s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.09",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.18",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.19",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00048s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.16",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00077s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.47",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00054s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:58.02",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00046s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00058s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00057s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.05",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00033s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00031s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.37",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00057s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00062s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.50",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00070s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.22",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00049s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.21",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.59",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00067s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00050s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00066s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.55",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00055s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00056s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.40",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.54",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00060s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00059s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.23",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00035s] ()"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 9.894s ago] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.33",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 18.76s ago] ()"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.43",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00061s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00044s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.13",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00022s] ()"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.14",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00031s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00033s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.41",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT users.id AS users_id, users.username AS users_username, users.password AS users_password, users.meta_data AS users_meta_data \nFROM users \nWHERE users.username = ? AND users.password = ?\n LIMIT ? OFFSET ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00093s] ('test', 'test', 1, 0)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00045s] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.24",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT contacts.id AS contacts_id, contacts.name AS contacts_name, contacts.contact_info AS contacts_contact_info, contacts.status AS contacts_status, contacts.company_id AS contacts_company_id, contacts.interactions AS contacts_interactions, contacts.meta_data AS contacts_meta_data \nFROM contacts \nWHERE contacts.status = ?"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[cached since 1.752s ago] ('Lead',)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.25",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "BEGIN (implicit)"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "SELECT companies.id AS companies_id, companies.name AS companies_name, companies.meta_data AS companies_meta_data, companies.contact_ids AS companies_contact_ids \nFROM companies"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "[generated in 0.00086s] ()"
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.31",
+    "module": "base",
+    "name": "sqlalchemy.engine.Engine",
+    "message": "ROLLBACK"
+}

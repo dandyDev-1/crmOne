@@ -1,0 +1,1340 @@
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:06.51",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:08.20",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:14.29",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:14.42",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:15.22",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 18:15.24",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing output terminal",
+    "FuncName": "closeEvent",
+    "FileName": "login_ui.py",
+    "LineNo": 36
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 19:37.43",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 19:38.35",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 19:40.22",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 19:48.12",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:07.00",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:26.25",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:29.55",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.02",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:31.35",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:32.48",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:33.18",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:34.06",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:41.02",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:48.06",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:49.51",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.26",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:52.37",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:53.38",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-01 20:54.41",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:01.35",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.01",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:02.11",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 60
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.41",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.48",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 57
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:16.50",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:17.03",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 57
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:17.58",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:18.03",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.13",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 12:19.19",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.41",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:35.59",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 53
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:37.48",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:41.51",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 14:42.32",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:35.42",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:38.22",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:41.08",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:42.20",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:47.29",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:51.00",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:52.14",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:54.48",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 16:55.02",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 17:01.23",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 54
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:50.08",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:57.00",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 18:58.54",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.30",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:18.45",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.00",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:20.21",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:22.08",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:44.58",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:45.17",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.45",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:48.52",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:49.32",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 19:57.35",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:15.34",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.32",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:16.50",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:20.07",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:21.30",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:23.29",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 77
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-02 20:24.33",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 10:51.55",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:18.59",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:20.56",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:23.25",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:34.42",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:35.52",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:36.06",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:36.52",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:38.36",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:40.43",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:45.36",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:49.01",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 11:59.14",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:00.09",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:04.23",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:05.23",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:05.32",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:22.58",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:23.12",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:27.50",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:30.15",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 12:46.11",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 14:39.28",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:05.10",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:09.27",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 15:33.37",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:18.52",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:24.36",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:25.28",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:26.01",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:29.04",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:42.45",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:45.12",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:51.10",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.06",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:52.43",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:57.49",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 20:59.14",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 21:00.01",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-03 22:08.16",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 113
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 10:53.32",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:07.05",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 113
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 11:15.46",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 17:59.12",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 18:06.17",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:28.12",
+    "module": "logger",
+    "name": "crm",
+    "message": "Closing Application",
+    "FuncName": "closeEvent",
+    "FileName": "dashboard_ui.py",
+    "LineNo": 83
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:34.54",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:35.19",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:36.52",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:37.35",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:44.47",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "ERROR",
+    "asctime": "2023-09-04 19:47.33",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialization error :'builtin_function_or_method' object has no attribute 'connect'",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 25
+}
+{
+    "levelname": "ERROR",
+    "asctime": "2023-09-04 19:48.42",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialization error :'builtin_function_or_method' object has no attribute 'connect'",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 25
+}
+{
+    "levelname": "ERROR",
+    "asctime": "2023-09-04 19:48.53",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialization error :currentChanged(self, QModelIndex, QModelIndex): argument 1 has unexpected type 'function'",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 25
+}
+{
+    "levelname": "ERROR",
+    "asctime": "2023-09-04 19:49.03",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialization error :currentChanged(self, QModelIndex, QModelIndex): not enough arguments",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 25
+}
+{
+    "levelname": "ERROR",
+    "asctime": "2023-09-04 19:50.04",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialization error :'builtin_function_or_method' object has no attribute 'connect'",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 25
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:52.47",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:55.18",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.08",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 19:58.57",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-09-04 21:08.36",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
+{
+    "levelname": "INFO",
+    "asctime": "2023-12-19 23:21.18",
+    "module": "logger",
+    "name": "crm",
+    "message": "Application initialized",
+    "FuncName": "run_app",
+    "FileName": "app.py",
+    "LineNo": 21
+}
